@@ -347,7 +347,7 @@ a.active {
 .navbar-custom {
     margin-bottom: 0;
     border-color: transparent;
-    background-color: #001a33;
+    background-color: #000;
     font-family: "Lato", sans-serif;
     text-transform: uppercase;
 }

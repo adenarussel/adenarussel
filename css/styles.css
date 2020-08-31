@@ -1203,6 +1203,11 @@ a.fa.fa-angle-down:focus {
 img#starry-logo,
 img#mullen-logo,
 img#affectiva-logo,
+img#css-logo,
+img#github-logo,
+img#js-logo,
+img#python-logo,
+img#photoshop-logo,
 img#ncsu-logo,
 img#infusingcomputing-logo,
 img#soundwaters-logo,
@@ -1258,6 +1263,30 @@ img#jrpofstamford-logo {
 }
 img#computing-logo {
     width: 120px;
+    margin: 0 auto;
+}
+img#html-logo {
+    width: 100px;
+    margin: 0 auto;
+}
+img#css-logo {
+    width: 100px;
+    margin: 0 auto;
+}
+img#github-logo {
+    width: 100px;
+    margin: 0 auto;
+}
+img#js-logo {
+    width: 100px;
+    margin: 0 auto;
+}
+img#python-logo {
+    width: 100px;
+    margin: 0 auto;
+}
+img#photoshop-logo {
+    width: 100px;
     margin: 0 auto;
 }
 @media screen and (max-width: 768px) {

@@ -1228,7 +1228,34 @@ img#nu-logo {
     width: 120px;
     margin: 0 auto;
 }
-
+img#affectiva-logo {
+    width: 120px;
+    margin: 0 auto;
+}
+img#ncsu-logo {
+    width: 120px;
+    margin: 0 auto;
+}
+img#infusingcomputing-logo {
+    width: 120px;
+    margin: 0 auto;
+}
+img#soundwaters-logo {
+    width: 120px;
+    margin: 0 auto;
+}
+img#sandraeagletransformationalleadership-logo {
+    width: 120px;
+    margin: 0 auto;
+}
+img#jrpofstamford-logo {
+    width: 120px;
+    margin: 0 auto;
+}
+img#computing-logo {
+    width: 120px;
+    margin: 0 auto;
+}
 @media screen and (max-width: 768px) {
     .skills-bar-container {
         width: 100%;

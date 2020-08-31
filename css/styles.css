@@ -1215,6 +1215,7 @@ img#sandraeagletransformationalleadership-logo,
 img#jrpofstamford-logo,
 img#computing-logo,
 img#html-logo,
+img#r-logo,
 img#nu-logo {
     height: auto;
     display: block;
@@ -1266,27 +1267,31 @@ img#computing-logo {
     margin: 0 auto;
 }
 img#html-logo {
-    width: 100px;
+    width: 80px;
     margin: 0 auto;
 }
 img#css-logo {
-    width: 100px;
+    width: 80px;
     margin: 0 auto;
 }
 img#github-logo {
-    width: 100px;
+    width: 80px;
     margin: 0 auto;
 }
 img#js-logo {
-    width: 100px;
+    width: 80px;
     margin: 0 auto;
 }
 img#python-logo {
-    width: 100px;
+    width: 80px;
     margin: 0 auto;
 }
 img#photoshop-logo {
-    width: 100px;
+    width: 80px;
+    margin: 0 auto;
+}
+img#r-logo {
+    width: 80px;
     margin: 0 auto;
 }
 @media screen and (max-width: 768px) {
